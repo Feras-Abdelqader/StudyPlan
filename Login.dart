@@ -19,7 +19,7 @@ class _loginState extends State<login> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.lightBlueAccent,
+        backgroundColor: Colors.lightBlue,
         appBar:AppBar(title: Text("StudyPlan",style: TextStyle(fontSize: 20),),centerTitle: true,),
         body:
         Center(
