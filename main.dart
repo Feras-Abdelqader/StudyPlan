@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   bool ic1=true;
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.lightBlueAccent,
+      backgroundColor: Colors.lightBlue,
       appBar: AppBar(title: Text("StudyPlan",style: TextStyle(fontSize: 20),),centerTitle: true,),
       body:
       Center(
